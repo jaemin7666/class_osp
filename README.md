@@ -1,4 +1,5 @@
-# hello-world
-a short description. I'm going to GitHub world!
+it's for class at pnu
+since 2019 spring
 
-Hey, I like soy beans. It tastes good.
+class list
+1.OpenSourceProgramming
